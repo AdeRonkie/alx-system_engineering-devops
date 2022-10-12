@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 4((128+ 4TRUEKNOWLEDGE))
+echo 4((128+ $TRUEKNOWLEDGE))
